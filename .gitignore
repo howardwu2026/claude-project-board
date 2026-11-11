@@ -1,0 +1,10 @@
+__pycache__/
+*.tmp-*
+.*.swp
+.DS_Store
+# data never belongs in the code repo (it lives in ~/.project_progress)
+projects.json
+status.json
+status.json.bad-*
+flows/
+.lock
